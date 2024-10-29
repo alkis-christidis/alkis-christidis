@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on low level iscsi code with Rust
 - 📫 How to reach me YOU DONT
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: THe Emperor Protects
+- ⚡ Fun fact: The Emperor Protects
 
 <!---
 alkis-christidis/alkis-christidis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
